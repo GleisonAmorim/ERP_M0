@@ -7,7 +7,7 @@ Módulo de cadastro:
 
 ## Descrição:
 
-O ERP M0 é um sistema modular de código aberto desenvolvido em Python, utilizando Tkinter para a interface gráfica. Este projeto visa oferecer uma solução completa para a gestão empresarial, começando pelo módulo de Cadastro e expandindo-se para os módulos de Caixa, Estoque e Financeiro.
+O ERP M0 é um sistema modular de código restrito desenvolvido em Python, utilizando Tkinter para a interface gráfica. Este projeto visa oferecer uma solução completa para a gestão empresarial, começando pelo módulo de Cadastro e expandindo-se para os módulos de Caixa, Estoque e Financeiro.
 
 Módulos Planejados:
 
