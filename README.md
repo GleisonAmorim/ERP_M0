@@ -18,8 +18,9 @@ Módulos Planejados:
 
 ## Destaque das funcionalidades centrais de cada módulo.
 
-- O Módulo de Caixa pode incluir controle de transações,
-- O Módulo de Estoque pode lidar com gerenciamento de inventário
+- O Módulo de cadastro pode incluir cadastro de clientes e/ou produtos, históricos.
+- O Módulo de Caixa pode incluir controle de transações.
+- O Módulo de Estoque pode lidar com gerenciamento de inventário.
 - O Módulo Financeiro pode abranger controle de despesas, receitas e relatórios financeiros.
 
 ## Versatilidade de Aplicação:
