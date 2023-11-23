@@ -12,16 +12,16 @@ O ERP M0 é um sistema modular de código restrito desenvolvido em Python, utili
 Módulos Planejados:
 
 - Módulo de Cadastro (já implementado)
-- Módulo de Caixa (em planejamento)
-- Módulo de Estoque (em planejamento)
-- Módulo Financeiro (em planejamento)
+- Módulo de Caixa (em produção)
+- Módulo de Estoque (em produção)
+- Módulo Financeiro de análise de dados para tomada de decisão (em planejamento)
 
 ## Destaque das funcionalidades centrais de cada módulo.
 
 - O Módulo de cadastro pode incluir cadastro de clientes e/ou produtos, históricos.
 - O Módulo de Caixa pode incluir controle de transações.
 - O Módulo de Estoque pode lidar com gerenciamento de inventário.
-- O Módulo Financeiro pode abranger controle de despesas, receitas e relatórios financeiros.
+- O Módulo Financeiro pode abranger controle de despesas, receitas, relatórios financeiros/análise de dados.
 
 ## Versatilidade de Aplicação:
 
