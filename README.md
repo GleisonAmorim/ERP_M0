@@ -45,8 +45,8 @@ E muito mais!!!
 
 ## Atualizações Futuras:
 
-- Módulo de Caixa (em planejamento)
-- Módulo de Estoque (em planejamento)
-- Módulo Financeiro (em planejamento)
-
+- Módulo de Caixa (em produção)
+- Módulo de Estoque (em produção)
+- Módulo Financeiro de análise de dados para tomada de decisão (em planejamento)
+- 
 #ERP, #Python, #GestãoEmpresarial
