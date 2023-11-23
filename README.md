@@ -1,9 +1,14 @@
 # ERP_M0
 ERP M0 - Sistema Integrado de Gestão Empresarial
 
-Módulo de cadastro:
+Módulo de cadastro de pessoas:
 
 ![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/60c20de2-2599-48ea-9a7c-b3e77df91a00)
+
+Módulo de cadastro de produtos:
+
+![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/2a57ec56-99c5-4574-b255-a8cd13439693)
+
 
 ## Descrição:
 
@@ -11,7 +16,7 @@ O ERP M0 é um sistema modular de código restrito desenvolvido em Python, utili
 
 Módulos Planejados:
 
-- Módulo de Cadastro (já implementado)
+- Módulo de Cadastro de Pessoas (já implementado)
 - Módulo de Caixa (em produção)
 - Módulo de Estoque (em produção)
 - Módulo Financeiro de análise de dados para tomada de decisão (em planejamento)
@@ -49,4 +54,4 @@ E muito mais!!!
 - Módulo de Estoque (em produção)
 - Módulo Financeiro de análise de dados para tomada de decisão (em planejamento)
 - 
-#ERP, #Python, #GestãoEmpresarial
+#ERP, #Python, #GestãoEmpresarial #PythonProgramming #PythonDevelopment #PythonProjects #PythonCoder #PythonCommunity #Tkinter #PythonGUI #TkinterProjects #UserInterface #GUIProgramming #SQLite #DatabaseManagement #SQLiteDatabase #SQLiteDevelopment #DatabaseDesign #SoftwareDevelopment #CodingLife #DevCommunity #CodeNewbie #SoftwareEngineering #Programming #CodeLife #CodingJourney #ProgrammersOfLinkedIn #CodeIsArt #Innovation #TechInnovation #InnovationInTech #TechAdvancement #DigitalInnovation #ContinuousLearning #NeverStopLearning #LearningJourney #KnowledgeSharing #AlwaysLearning #ERP #BusinessManagement #EnterpriseSolutions #BusinessSoftware #ERPSystem
