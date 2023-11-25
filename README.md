@@ -3,7 +3,7 @@ ERP M0 - Sistema Integrado de Gestão Empresarial
 
 Módulo de cadastro de pessoas:
 
-![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/60c20de2-2599-48ea-9a7c-b3e77df91a00)
+![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/74ad21a2-f74e-438e-85b5-3083432569d3)
 
 Módulo de cadastro de produtos:
 
