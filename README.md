@@ -11,7 +11,7 @@ Módulo de estoque:
 
 ![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/619e5e7c-7624-446d-be09-ab6376f5c73e)
 
-- Cadastro do estoque, atualização e exclusão dos produtos no estoque, fácil manipulação do banco de dados.
+- Cadastro do estoque, atualização e exclusão dos produtos no estoque, fácil manipulação e visualização do banco de dados.
 
 ## Descrição:
 
