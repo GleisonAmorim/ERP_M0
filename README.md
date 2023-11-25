@@ -13,7 +13,7 @@ Módulo de estoque:
 
 - Cadastro do estoque, atualização e exclusão dos produtos no estoque, fácil manipulação e visualização do banco de dados.
 
-- Módulo de caixa (Em produção):
+Módulo de caixa (Em produção):
 
 ![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/2cfc60ee-3974-40db-a13e-d4af5d18602c)
 
