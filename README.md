@@ -1,5 +1,5 @@
-# ERP_M0
-ERP M0 - Sistema Integrado de Gestão Empresarial
+# ERP_m0
+ERP m0 - Sistema Integrado de Gestão Empresarial
 
 Módulo de cadastro:
 
@@ -33,7 +33,7 @@ Módulos Planejados:
 
 ## Versatilidade de Aplicação:
 
-O ERP M0 - Sistema Integrado de Gestão Empresarial poderá ser implementado em:
+O ERP m0 - Sistema Integrado de Gestão Empresarial poderá ser implementado em:
 
 - Barbearias com horários de agendamentos de clientes
 
