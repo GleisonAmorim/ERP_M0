@@ -13,6 +13,12 @@ Módulo de estoque:
 
 - Cadastro do estoque, atualização e exclusão dos produtos no estoque, fácil manipulação e visualização do banco de dados.
 
+- Módulo de caixa (Em produção):
+
+![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/2cfc60ee-3974-40db-a13e-d4af5d18602c)
+
+- Operação de caixa estruturada com banco de dados de vendas para posteriormente construir o módulo de análise de dados
+
 ## Descrição:
 
 O ERP M0 é um sistema modular de código restrito desenvolvido em Python, utilizando Tkinter para a interface gráfica. Este projeto visa oferecer uma solução completa para a gestão empresarial, começando pelo módulo de Cadastro e expandindo-se para os módulos de Caixa, Estoque e Financeiro.
