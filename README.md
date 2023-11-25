@@ -1,14 +1,17 @@
 # ERP_M0
 ERP M0 - Sistema Integrado de Gestão Empresarial
 
-Módulo de cadastro de pessoas:
+Módulo de cadastro:
 
 ![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/74ad21a2-f74e-438e-85b5-3083432569d3)
 
-Módulo de cadastro de produtos:
+- Cadastro de clientes, dados, horários de agendamento, controle de fluxo, vizualização do banco de dados de cadastro, fácil manipulação do banco de dados.
 
-![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/2a57ec56-99c5-4574-b255-a8cd13439693)
+Módulo de estoque:
 
+![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/619e5e7c-7624-446d-be09-ab6376f5c73e)
+
+- Cadastro do estoque, atualização e exclusão dos produtos no estoque, fácil manipulação do banco de dados.
 
 ## Descrição:
 
