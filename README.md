@@ -61,5 +61,5 @@ E muito mais!!!
 
 - Módulo de Caixa (em produção)
 - Módulo Financeiro de análise de dados para tomada de decisão (em planejamento)
-- 
+
 #ERP, #Python, #GestãoEmpresarial #PythonProgramming #PythonDevelopment #PythonProjects #PythonCoder #PythonCommunity #Tkinter #PythonGUI #TkinterProjects #UserInterface #GUIProgramming #SQLite #DatabaseManagement #SQLiteDatabase #SQLiteDevelopment #DatabaseDesign #SoftwareDevelopment #CodingLife #DevCommunity #CodeNewbie #SoftwareEngineering #Programming #CodeLife #CodingJourney #ProgrammersOfLinkedIn #CodeIsArt #Innovation #TechInnovation #InnovationInTech #TechAdvancement #DigitalInnovation #ContinuousLearning #NeverStopLearning #LearningJourney #KnowledgeSharing #AlwaysLearning #ERP #BusinessManagement #EnterpriseSolutions #BusinessSoftware #ERPSystem
