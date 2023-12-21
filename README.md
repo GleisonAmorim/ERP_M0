@@ -1,4 +1,4 @@
-# ERP_m0 (Pausa no projeto até 2024)
+# ERP_m0 (Projeto em pausa)
 ERP m0 - Sistema Integrado de Gestão Empresarial
 
 Módulo de cadastro:
