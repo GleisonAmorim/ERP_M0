@@ -1,4 +1,4 @@
-# ERP_m0
+# ERP_m0 (Pausa no projeto até 2024)
 ERP m0 - Sistema Integrado de Gestão Empresarial
 
 Módulo de cadastro:
@@ -18,8 +18,6 @@ Módulo de caixa (Em produção):
 ![image](https://github.com/GleisonAmorim/ERP_M0/assets/54336609/2cfc60ee-3974-40db-a13e-d4af5d18602c)
 
 - Operação de caixa estruturada com banco de dados de vendas para posteriormente construir o módulo de análise de dados
-
-# Pausa no projeto até 2024.
 
 ## Descrição:
 
