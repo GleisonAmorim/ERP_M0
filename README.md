@@ -19,6 +19,8 @@ Módulo de caixa (Em produção):
 
 - Operação de caixa estruturada com banco de dados de vendas para posteriormente construir o módulo de análise de dados
 
+# Pausa no projeto até 2024.
+
 ## Descrição:
 
 O ERP M0 é um sistema modular de código restrito desenvolvido em Python, utilizando Tkinter para a interface gráfica. Este projeto visa oferecer uma solução completa para a gestão empresarial, começando pelo módulo de Cadastro e expandindo-se para os módulos de Caixa, Estoque e Financeiro.
