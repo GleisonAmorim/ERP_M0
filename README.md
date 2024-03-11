@@ -1,4 +1,7 @@
 # ERP_m0 
+
+Módulos (em produção)
+
 ERP m0 - Sistema Integrado de Gestão Empresarial
 
 Módulo de cadastro:
@@ -22,13 +25,6 @@ Módulo de caixa (Em produção):
 ## Descrição:
 
 O ERP M0 é um sistema modular de código restrito desenvolvido em Python, utilizando Tkinter para a interface gráfica. Este projeto visa oferecer uma solução completa para a gestão empresarial, começando pelo módulo de Cadastro e expandindo-se para os módulos de Caixa, Estoque e Financeiro.
-
-Módulos Planejados:
-
-- Módulo de Cadastro de Pessoas (já implementado)
-- Módulo de Caixa (em produção)
-- Módulo de Estoque (Já implementado)
-- Módulo Financeiro de análise de dados para tomada de decisão (em planejamento)
 
 ## Destaque das funcionalidades centrais de cada módulo.
 
