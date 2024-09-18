@@ -1,6 +1,6 @@
 # ERP_m0 
 
-Módulos (em produção)
+Módulos (em desenvolvimento)
 
 ERP m0 - Sistema Integrado de Gestão Empresarial
 
